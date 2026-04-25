@@ -1,4 +1,4 @@
-# Insurance Cost Prediction ML Project
+# Insurance Cost Prediction ML Project (Practice Project)
 
 ## 📌 Objective
 Predict insurance charges based on user data.
