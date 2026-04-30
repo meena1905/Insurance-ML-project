@@ -1,9 +1,9 @@
 # Insurance Cost Prediction ML Project (Practice Project)
 
-## 📌 Objective
+## Objective
 Predict insurance charges based on user data.
 
-## 📊 Steps followed
+## Steps followed
 - Data cleaning
 - EDA (histograms, countplots, boxplots)
 - Feature engineering
@@ -13,7 +13,7 @@ Predict insurance charges based on user data.
 - Model training (Linear Regression)
 - Model evaluation (R², MAE, MSE)
 
-## 📈 Result
+## Result
 - R² Score: ~0.74
 
 ## 🛠 Tools used
