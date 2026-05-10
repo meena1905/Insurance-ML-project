@@ -22,3 +22,9 @@ Predict insurance charges based on user data.
 - Seaborn
 - Scikit-learn
 - Jupyter Notebook
+
+  ## License
+
+[MIT](LICENSE) — Developed by [Meenakshi](https://github.com/meena1905)
+
+---
